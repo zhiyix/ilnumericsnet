@@ -1,8 +1,0 @@
-ILNumerics.Drawing.dll
-ILNumerics.Drawing.xml
-ILNumerics.Drawing_runtime.txt
-changelog_Drawing.txt
-OpenTK.dll
-OpenTK.dll.config
-
-
